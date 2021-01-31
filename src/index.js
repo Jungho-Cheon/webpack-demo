@@ -6,5 +6,4 @@ import "./main.scss";
 const alertService = new AlertService();
 const componentService = new ComponentService();
 
-console.log("test!");
 run(alertService, componentService);
